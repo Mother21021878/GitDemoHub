@@ -1,1 +1,3 @@
 We have the following code with unknown function f(). In f(), we do not want to use return, instead, we may want to use generator.
+Let's add one more line.
+Looking for new status response..
